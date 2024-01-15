@@ -1,0 +1,4 @@
+#Sun Jan 14 17:39:06 ICT 2024
+base.0=D\:\\pages\\sisa-saku\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
